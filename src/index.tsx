@@ -55,7 +55,7 @@ function Counter() {
 }
 
 ReactDOM.render(<Counter/>, document.getElementById('root'));
-// Что надо написать вместо XXX и YYY, чтобы код работал? Напишите через пробел.
+
 
 
 
